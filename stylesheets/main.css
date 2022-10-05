@@ -1,0 +1,104 @@
+
+h1 {
+  color: white;
+  font-size: 18px;
+  font-family: verdana;
+  background-color: darkred;
+  padding: 10px 10px 10px 10px;
+}
+
+h2 {
+  color: black;
+  font-size: 16px;
+  font-family: verdana;
+  padding: 10px 10px 10px 30px;
+  background-color: white;
+}
+
+h3 {
+  color: black;
+  font-size: 14px;
+  font-family: verdana;
+  padding: 40px 0px 0px 10px;
+  background-color: white;
+}
+
+h4 {
+  color: white;
+  font-size: 12px;
+  font-family: verdana;
+  text-align: right;
+  background-color: darkred;
+  padding: 16px 10px 10px 20px;
+}
+
+h5 {
+  color: black;
+  font-size: 10px;
+  font-family: verdana;
+  padding: 10px 10px 10px 10px;
+  background-color: white;
+}
+
+h6 {
+  color: white;
+  font-size: 10px;
+  font-family: verdana;
+  background-color: rgb(69, 66, 66);
+  padding: 10px 10px 10px 10px;
+  float: left
+}
+
+a {color: white;
+  font-size: 12px;
+  font-family: verdana;
+}
+
+p {
+  color: black;
+  font-family: verdana;
+  font-size: 12px;
+  text-align: left;
+  padding: 10px 10px 8px 30px;
+  background-color: white;
+}
+
+img {
+  width: 100%;
+  height:auto;
+  padding: 10px 10px 10px 10px;
+  background-color: white;
+}
+
+footer {
+  color: white;
+  font-size: 10px;
+  font-family: verdana;
+  background-color: rgb(69, 66, 66);
+  padding: 735px 20px 20px 20px;
+}
+
+div {
+  float: left;
+  /* height: 1000px */
+}
+
+section.museuminfo {
+  float: left;
+  width: 80%;
+}
+
+section.otherattractions {
+  float: left;
+  width: 20%
+}
+
+section.header {
+  float: left;
+  width: 50%
+}
+
+section.login {
+  float: left;
+  width: 50%
+}
