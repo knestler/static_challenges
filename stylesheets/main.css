@@ -46,7 +46,7 @@ h6 {
   font-family: verdana;
   background-color: rgb(69, 66, 66);
   padding: 10px 10px 10px 10px;
-  float: left
+  float: right
 }
 
 a {color: white;
@@ -75,17 +75,18 @@ footer {
   font-size: 10px;
   font-family: verdana;
   background-color: rgb(69, 66, 66);
-  padding: 735px 20px 20px 20px;
+  padding: 745px 20px 20px 20px;
 }
 
-div {
+section.links {
   float: left;
-  /* height: 1000px */
+  width: 100%
 }
 
 section.museuminfo {
   float: left;
   width: 80%;
+  /* flex: otherattractions; */
 }
 
 section.otherattractions {
@@ -102,3 +103,4 @@ section.login {
   float: left;
   width: 50%
 }
+
